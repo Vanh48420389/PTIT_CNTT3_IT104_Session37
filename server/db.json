@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Hoàng",
+      "age": 16,
+      "grade": "3",
+      "id": 1
+    },
+    {
+      "name": "Minh",
+      "age": 16,
+      "grade": "4",
+      "id": 2
+    },
+    {
+      "name": "Nguyên Đức",
+      "age": 18,
+      "grade": "3",
+      "id": 3
+    }
+  ]
+}
